@@ -1,0 +1,10 @@
+<resources>
+    <string name="yelp_api_key">Bearer oT3pjjW0JpIuEJ­_003lLHTwoDCSLzbVZKug7BRTxbW9slmIep3yH_HncyQV_zPGt3zits6vk7_eQVqN0JEkZ1KW5IF5TbOCwn­1tf5B2­enx60jDC6qs1D7igL2W3Yx</string>
+    <string name="app_name">Business Search</string>
+    <string name="action_settings">Settings</string>
+    <string name="rating_colon_number">Rating: %.1f</string>
+    <string name="distance_meters">%dm</string>
+    <string name="name">Name</string>
+    <string name="rating">Rating</string>
+    <string name="distance">Distance</string>
+</resources>
